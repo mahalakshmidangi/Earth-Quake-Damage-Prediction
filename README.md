@@ -219,4 +219,4 @@ We did all the steps such as Basic info, EDA, Preprocessing, Model creation. But
 -----------
 
 ## **More information**
-Visit this python file for more detailed analysis [EquakeDamagePred.ipynb](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/blob/master/EquakeDamagePred.ipynb).
+Visit this python file for more detailed analysis [EquakeDamagePred.ipynb](https://github.com/mahalakshmidangi/Earth-Quake-Damage-Prediction/blob/main/EquakeDamagePred.ipynb).
